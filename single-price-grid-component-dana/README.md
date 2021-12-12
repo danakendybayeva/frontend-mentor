@@ -23,6 +23,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@danakendybayeva](https://www.frontendmentor.io/profile/danakendybayeva)
 - Instagram - [@danusya_k](https://www.instagram.com/danusya_k)
 
