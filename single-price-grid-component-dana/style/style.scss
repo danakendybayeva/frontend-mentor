@@ -27,7 +27,6 @@ main{
 }
 
 .join{
-    // background-color: white;
 
     h1{
         color: $cyan;
@@ -36,16 +35,12 @@ main{
 
     h2{
         color: $yellow;
-        // font-size: 30px;
     }
 
     p{
         color: #b2b1b8;
     }
 
-    @include mobile {
-        
-    }
 }
 
 .row{
