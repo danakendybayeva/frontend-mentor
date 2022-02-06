@@ -125,6 +125,7 @@ body {
   -ms-flex-pack: distribute;
       justify-content: space-around;
   padding: 1rem;
+  cursor: default;
 }
 
 .menu-card .menu__link {
@@ -320,7 +321,6 @@ body {
 
 @media screen and (min-width: 1440px) {
   .container {
-    width: 77%;
     -ms-grid-columns: 24% 24% 24% 24%;
         grid-template-columns: 24% 24% 24% 24%;
   }
@@ -342,7 +342,7 @@ body {
             align-items: flex-start;
   }
   .menu-card .card-report .text .name {
-    font-size: 40px;
+    font-size: 35px;
   }
   .menu-card .menu {
     -webkit-box-orient: vertical;
