@@ -18,19 +18,15 @@ p {
   background-color: none;
 }
 
-.port i, .port h1 {
+.port img, .port h1 {
   display: inline-block;
   vertical-align: middle;
   margin: 30px 0;
 }
 
-.port i {
-  font-size: 40px;
-  color: #a3dada;
-  margin: auto 30px;
-  -webkit-box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
-  border-radius: 50%;
+.port img {
+  margin-right: 30px;
+  margin-left: -30px;
 }
 
 .port h1 {

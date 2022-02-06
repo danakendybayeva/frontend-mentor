@@ -120,27 +120,25 @@ section {
 }
 
 .port {
-  background-color: none;
+  background-color: #4bbebb;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
-.port i, .port h1 {
+.port img, .port h1 {
   display: inline-block;
   vertical-align: middle;
   margin: 30px 0;
 }
 
-.port i {
-  font-size: 40px;
-  color: #a3dada;
+.port img {
   margin: auto 30px;
-  -webkit-box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
-  border-radius: 50%;
 }
 
 .port h1 {
   text-align: center;
-  margin-left: 25vw;
+  color: white;
 }
 
 .port a {
