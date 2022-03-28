@@ -26,12 +26,20 @@ h1 {
   padding: 2rem;
 }
 
+.profile {
+  text-align: center;
+}
+
+.profile h2 {
+  color: #cd5b9f;
+}
+
 .container {
   display: flex;
-  width: 1040px;
   justify-content: space-evenly;
   flex-wrap: wrap;
   padding: 1rem;
+  margin: 0 auto;
 }
 .card {
   margin: 10px;
